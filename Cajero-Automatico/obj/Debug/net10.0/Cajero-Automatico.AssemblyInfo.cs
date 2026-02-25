@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cajero-Automatico")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53f4f185ad1b977414519c8b23e66bdec82d48a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cajero-Automatico")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cajero-Automatico")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
