@@ -1,0 +1,14 @@
+C:\Users\auxiliarti\source\repos\Cajero-Automatico\Cajero-Automatico\bin\Debug\net10.0\Cajero-Automatico.exe
+C:\Users\auxiliarti\source\repos\Cajero-Automatico\Cajero-Automatico\bin\Debug\net10.0\Cajero-Automatico.deps.json
+C:\Users\auxiliarti\source\repos\Cajero-Automatico\Cajero-Automatico\bin\Debug\net10.0\Cajero-Automatico.runtimeconfig.json
+C:\Users\auxiliarti\source\repos\Cajero-Automatico\Cajero-Automatico\bin\Debug\net10.0\Cajero-Automatico.dll
+C:\Users\auxiliarti\source\repos\Cajero-Automatico\Cajero-Automatico\bin\Debug\net10.0\Cajero-Automatico.pdb
+C:\Users\auxiliarti\source\repos\Cajero-Automatico\Cajero-Automatico\obj\Debug\net10.0\Cajero-Automatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auxiliarti\source\repos\Cajero-Automatico\Cajero-Automatico\obj\Debug\net10.0\Cajero-Automatico.AssemblyInfoInputs.cache
+C:\Users\auxiliarti\source\repos\Cajero-Automatico\Cajero-Automatico\obj\Debug\net10.0\Cajero-Automatico.AssemblyInfo.cs
+C:\Users\auxiliarti\source\repos\Cajero-Automatico\Cajero-Automatico\obj\Debug\net10.0\Cajero-Automatico.csproj.CoreCompileInputs.cache
+C:\Users\auxiliarti\source\repos\Cajero-Automatico\Cajero-Automatico\obj\Debug\net10.0\Cajero-Automatico.dll
+C:\Users\auxiliarti\source\repos\Cajero-Automatico\Cajero-Automatico\obj\Debug\net10.0\refint\Cajero-Automatico.dll
+C:\Users\auxiliarti\source\repos\Cajero-Automatico\Cajero-Automatico\obj\Debug\net10.0\Cajero-Automatico.pdb
+C:\Users\auxiliarti\source\repos\Cajero-Automatico\Cajero-Automatico\obj\Debug\net10.0\Cajero-Automatico.genruntimeconfig.cache
+C:\Users\auxiliarti\source\repos\Cajero-Automatico\Cajero-Automatico\obj\Debug\net10.0\ref\Cajero-Automatico.dll
